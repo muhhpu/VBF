@@ -164,3 +164,8 @@ AAAI 2026.
 ```
 
 ---
+## Poster
+
+<p align="center">
+   <img src="./img/AAAI26_mai-16402-poster_00.png" width="720"> 
+</p>
