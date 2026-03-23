@@ -158,9 +158,16 @@ python model_test.py
 ## Citation
 
 ```
-Ziyi Cao, Rui Liu, Yong Chen*. 
-VBF++: Variational Bayesian Fusion with Context-Aware Priors and Recommendation-Guided Adversarial Refinement for Multimodal Video Recommendation. 
-AAAI 2026.
+@article{vbf++,
+author = {Cao, Ziyi and Liu, Rui and Chen, Yong},
+year = {2026},
+month = {03},
+pages = {14520-14528},
+title = {VBF++: Variational Bayesian Fusion with Context-Aware Priors and Recommendation-Guided Adversarial Refinement for Multimodal Video Recommendation},
+volume = {40},
+journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+doi = {10.1609/aaai.v40i17.38469}
+}
 ```
 
 ---
